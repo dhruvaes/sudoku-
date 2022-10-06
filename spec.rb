@@ -1,3 +1,5 @@
+##First, we’ll write the spec. We’ll declare the constants:
+
 require 'rspec'
 require_relative 'sudoku'
 
