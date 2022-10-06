@@ -1,0 +1,15 @@
+##The following display the 7 functions that will be used to implement the sudoku game:
+
+parse_board — takes an 81 character string — returns a 2-dimensional board array.
+
+find_empty_positions — takes a board array — returns the empty positions in it.
+
+check_row — takes a board array, row, and number — returns whether that number is valid in its row.
+
+check_col — takes a board array, column, and number — returns whether that number is valid in its column.
+
+check_block — takes a board array, row, column, and number — returns whether that number is valid in its 3x3 block.
+
+check_value — takes a board array, row, column, and number — returns whether that number is valid in its row, column, and 3x3 block.
+
+solve_puzzle — takes a board array — returns a solved board array.
