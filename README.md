@@ -25,6 +25,5 @@ The puzzle setter provides a partially completed grid, which may have a unique s
 
 The grid contians 9 so-called 'boxes', that is 3x3 sub-grids within the general grid.
 
-Example input and output :
-(Note: Input will be an array of arrays. They represent rows on the Sudoku board.)
+
 
