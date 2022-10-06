@@ -7,6 +7,7 @@ containing the numbers between 1 to 9. At the beginning of the game, 9x9 grid wi
 missing digits and complete the grid.
 
 Constraints :
+
 Any row cannot contain more than one of the same number from 1 to 9
 
 Any column cannot contain more than one of the same number from 1 to 9
